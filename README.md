@@ -24,8 +24,8 @@ Stop the execution..
 
 ## Program:
 
-Developed By: Gunaseelan G
-Reg no: 212221230031
+Developed By: Javith Farkhan
+Reg no: 212221240017
 ```
 using System;
 namespace condition
